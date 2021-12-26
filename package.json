@@ -7,7 +7,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.25"
+    "@types/node": "^17.0.5",
+    "ant-design-vue": "^3.0.0-alpha.14",
+    "path": "^0.12.7",
+    "vue": "^3.2.25",
+    "vue-router": "4.0",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.0.0",
